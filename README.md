@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Getting Started
 You can access on-chain by [clicking here](https://embeddables.testnet.andromedaprotocol.io/galileo-4/pawnshop) 
 
-or
+or to run locally
 
 First, run the development server:
 
