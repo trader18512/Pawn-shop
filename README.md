@@ -1,6 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+You can access on-chain by [clicking here](https://embeddables.testnet.andromedaprotocol.io/galileo-4/pawnshop) 
+
+or
 
 First, run the development server:
 
