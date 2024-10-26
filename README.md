@@ -16,24 +16,14 @@ The Pawnshop Project is a decentralized platform that allows users to pawn their
 - **IPFS**
 
 ## Getting Started
+You can access on-chain by [clicking here](https://embeddables.testnet.andromedaprotocol.io/galileo-4/pawnshop) 
+or to run locally
+
 1. **Install Dependencies**: `npm install`
 2. **Run the Development Server**: `npm run dev`
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-You can access on-chain by [clicking here](https://embeddables.testnet.andromedaprotocol.io/galileo-4/pawnshop) 
-
-or to run locally
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
